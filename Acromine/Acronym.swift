@@ -2,7 +2,7 @@
 //  Acronym.swift
 //  Acromine
 //
-//  Created by Ganesh Malaiyappan on 10/15/21.
+//  Created by Shalinipriya Annadurai on 10/15/21.
 //
 
 import Foundation
